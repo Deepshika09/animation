@@ -1,6 +1,3 @@
-<img width="1905" height="1022" alt="Screenshot 2026-11-18 111049" src="https://github.com/user-attachments/assets/c2109dbd-6e8b-4a29-a4e1-427830001c3e" /># Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
-
-
 ## AIM:
 
 To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio.
@@ -313,7 +310,8 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 
-<img width="1917" height="1015" alt="Screenshot 2026-11-18 111054" src="https://github.com/user-attachments/assets/0ff8018f-c1f3-4c2c-a944-9f7226c020a8" />
+<img width="1913" height="1018" alt="Screenshot 2026-11-18 110914" src="https://github.com/user-attachments/assets/cf3852f9-992a-45dd-a831-9952335a896d" />
+
 
 <img width="1905" height="1022" alt="Screenshot 2026-11-18 111049" src="https://github.com/user-attachments/assets/55c1a8d4-6e76-494f-a052-81cb5376e69b" />
 
@@ -323,6 +321,8 @@ public class MainActivity extends AppCompatActivity {
 
 <img width="1917" height="1005" alt="Screenshot 2026-11-18 110931" src="https://github.com/user-attachments/assets/d61818c5-3fab-4791-9845-20069873a14f" />
 
+
+<img width="1917" height="1015" alt="Screenshot 2026-11-18 111054" src="https://github.com/user-attachments/assets/b15ae21b-1f1e-4ffd-9a89-f1ae4be9db8f" />
 
 
 ## RESULT
